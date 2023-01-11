@@ -2,3 +2,9 @@ h1 {
   color: red;
   border: 1px black dotted;
 }
+p {
+  font-size: 30px;
+}
+ol > li {
+  color: blue;
+}
